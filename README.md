@@ -6,7 +6,7 @@ I have done this WebAPI by watching this tutorial [https://www.youtube.com/watch
 
 Visual Studios 2019 updated to version 16.8 and updated to .NET Core 5
 
-##This demo project contains 
+This demo project contains: 
 
 Project name: WebAPI
 Contains:
