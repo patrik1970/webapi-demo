@@ -1,4 +1,4 @@
-#WebAPI .NET Core 5 with OpenAPI and NSwag
+## WebAPI .NET Core 5 with OpenAPI and NSwag
 
 I have done this WebAPI by watching this tutorial [https://www.youtube.com/watch?v=nY-w9wPFEuY](https://www.youtube.com/watch?v=nY-w9wPFEuY)
 
